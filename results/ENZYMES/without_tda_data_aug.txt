@@ -1,0 +1,558 @@
+600 600
+600
+Class distribution,  {6: 100, 5: 100, 1: 100, 2: 100, 3: 100, 4: 100}
+Graph len max 126
+X_train, Y_train,  420 420
+Class distribution,  {5: 67, 6: 64, 2: 74, 1: 71, 3: 72, 4: 72}
+Creating extra data samples...
+0/420
+21/420
+42/420
+63/420
+84/420
+105/420
+126/420
+147/420
+168/420
+189/420
+210/420
+231/420
+252/420
+273/420
+294/420
+315/420
+336/420
+357/420
+378/420
+399/420
+X_train, Y_train,  840 840
+VR...
+(1020, 268, 3)
+(1020, 8)
+WITH PADDING
+TDA GCN DATASET 
+(840, 126)
+(840, 126, 1)
+TDA GCN DATASET 
+(180, 126)
+(180, 126, 1)
+EPOCH 0
+Epoch 0.
+EPOCH 1
+Epoch 1.
+EPOCH 2
+Epoch 2.
+EPOCH 3
+Epoch 3.
+EPOCH 4
+Epoch 4.
+Train/test
+Accuracy:  0.2833333333333333
+Accuracy:  0.2696078431372549
+EPOCH 5
+Epoch 5.
+EPOCH 6
+Epoch 6.
+EPOCH 7
+Epoch 7.
+EPOCH 8
+Epoch 8.
+EPOCH 9
+Epoch 9.
+Train/test
+Accuracy:  0.2904761904761905
+Accuracy:  0.2774509803921569
+EPOCH 10
+Epoch 10.
+EPOCH 11
+Epoch 11.
+EPOCH 12
+Epoch 12.
+EPOCH 13
+Epoch 13.
+EPOCH 14
+Epoch 14.
+Train/test
+Accuracy:  0.30357142857142855
+Accuracy:  0.2872549019607843
+EPOCH 15
+Epoch 15.
+EPOCH 16
+Epoch 16.
+EPOCH 17
+Epoch 17.
+EPOCH 18
+Epoch 18.
+EPOCH 19
+Epoch 19.
+Train/test
+Accuracy:  0.4630952380952381
+Accuracy:  0.42549019607843136
+EPOCH 20
+Epoch 20.
+EPOCH 21
+Epoch 21.
+EPOCH 22
+Epoch 22.
+EPOCH 23
+Epoch 23.
+EPOCH 24
+Epoch 24.
+Train/test
+Accuracy:  0.4142857142857143
+Accuracy:  0.3862745098039216
+EPOCH 25
+Epoch 25.
+EPOCH 26
+Epoch 26.
+EPOCH 27
+Epoch 27.
+EPOCH 28
+Epoch 28.
+EPOCH 29
+Epoch 29.
+Train/test
+Accuracy:  0.5464285714285714
+Accuracy:  0.5029411764705882
+EPOCH 30
+Epoch 30.
+EPOCH 31
+Epoch 31.
+EPOCH 32
+Epoch 32.
+EPOCH 33
+Epoch 33.
+EPOCH 34
+Epoch 34.
+Train/test
+Accuracy:  0.5511904761904762
+Accuracy:  0.503921568627451
+EPOCH 35
+Epoch 35.
+EPOCH 36
+Epoch 36.
+EPOCH 37
+Epoch 37.
+EPOCH 38
+Epoch 38.
+EPOCH 39
+Epoch 39.
+Train/test
+Accuracy:  0.6369047619047619
+Accuracy:  0.5754901960784313
+EPOCH 40
+Epoch 40.
+EPOCH 41
+Epoch 41.
+EPOCH 42
+Epoch 42.
+EPOCH 43
+Epoch 43.
+EPOCH 44
+Epoch 44.
+Train/test
+Accuracy:  0.5928571428571429
+Accuracy:  0.5343137254901961
+EPOCH 45
+Epoch 45.
+EPOCH 46
+Epoch 46.
+EPOCH 47
+Epoch 47.
+EPOCH 48
+Epoch 48.
+EPOCH 49
+Epoch 49.
+Train/test
+Accuracy:  0.6761904761904762
+Accuracy:  0.6058823529411764
+EPOCH 50
+Epoch 50.
+EPOCH 51
+Epoch 51.
+EPOCH 52
+Epoch 52.
+EPOCH 53
+Epoch 53.
+EPOCH 54
+Epoch 54.
+Train/test
+Accuracy:  0.6761904761904762
+Accuracy:  0.611764705882353
+EPOCH 55
+Epoch 55.
+EPOCH 56
+Epoch 56.
+EPOCH 57
+Epoch 57.
+EPOCH 58
+Epoch 58.
+EPOCH 59
+Epoch 59.
+Train/test
+Accuracy:  0.7083333333333334
+Accuracy:  0.6313725490196078
+EPOCH 60
+Epoch 60.
+EPOCH 61
+Epoch 61.
+EPOCH 62
+Epoch 62.
+EPOCH 63
+Epoch 63.
+EPOCH 64
+Epoch 64.
+Train/test
+Accuracy:  0.7857142857142857
+Accuracy:  0.7009803921568627
+EPOCH 65
+Epoch 65.
+EPOCH 66
+Epoch 66.
+EPOCH 67
+Epoch 67.
+EPOCH 68
+Epoch 68.
+EPOCH 69
+Epoch 69.
+Train/test
+Accuracy:  0.8476190476190476
+Accuracy:  0.75
+EPOCH 70
+Epoch 70.
+EPOCH 71
+Epoch 71.
+EPOCH 72
+Epoch 72.
+EPOCH 73
+Epoch 73.
+EPOCH 74
+Epoch 74.
+Train/test
+Accuracy:  0.8119047619047619
+Accuracy:  0.7196078431372549
+EPOCH 75
+Epoch 75.
+EPOCH 76
+Epoch 76.
+EPOCH 77
+Epoch 77.
+EPOCH 78
+Epoch 78.
+EPOCH 79
+Epoch 79.
+Train/test
+Accuracy:  0.7511904761904762
+Accuracy:  0.6676470588235294
+EPOCH 80
+Epoch 80.
+EPOCH 81
+Epoch 81.
+EPOCH 82
+Epoch 82.
+EPOCH 83
+Epoch 83.
+EPOCH 84
+Epoch 84.
+Train/test
+Accuracy:  0.8690476190476191
+Accuracy:  0.7686274509803922
+EPOCH 85
+Epoch 85.
+EPOCH 86
+Epoch 86.
+EPOCH 87
+Epoch 87.
+EPOCH 88
+Epoch 88.
+EPOCH 89
+Epoch 89.
+Train/test
+Accuracy:  0.7476190476190476
+Accuracy:  0.6715686274509803
+EPOCH 90
+Epoch 90.
+EPOCH 91
+Epoch 91.
+EPOCH 92
+Epoch 92.
+EPOCH 93
+Epoch 93.
+EPOCH 94
+Epoch 94.
+Train/test
+Accuracy:  0.8523809523809524
+Accuracy:  0.7578431372549019
+EPOCH 95
+Epoch 95.
+EPOCH 96
+Epoch 96.
+EPOCH 97
+Epoch 97.
+EPOCH 98
+Epoch 98.
+EPOCH 99
+Epoch 99.
+Train/test
+Accuracy:  0.8583333333333333
+Accuracy:  0.7696078431372549
+EPOCH 100
+Epoch 100.
+EPOCH 101
+Epoch 101.
+EPOCH 102
+Epoch 102.
+EPOCH 103
+Epoch 103.
+EPOCH 104
+Epoch 104.
+Train/test
+Accuracy:  0.719047619047619
+Accuracy:  0.6450980392156863
+EPOCH 105
+Epoch 105.
+EPOCH 106
+Epoch 106.
+EPOCH 107
+Epoch 107.
+EPOCH 108
+Epoch 108.
+EPOCH 109
+Epoch 109.
+Train/test
+Accuracy:  0.8952380952380953
+Accuracy:  0.7911764705882353
+EPOCH 110
+Epoch 110.
+EPOCH 111
+Epoch 111.
+EPOCH 112
+Epoch 112.
+EPOCH 113
+Epoch 113.
+EPOCH 114
+Epoch 114.
+Train/test
+Accuracy:  0.9071428571428571
+Accuracy:  0.803921568627451
+EPOCH 115
+Epoch 115.
+EPOCH 116
+Epoch 116.
+EPOCH 117
+Epoch 117.
+EPOCH 118
+Epoch 118.
+EPOCH 119
+Epoch 119.
+Train/test
+Accuracy:  0.9595238095238096
+Accuracy:  0.846078431372549
+EPOCH 120
+Epoch 120.
+EPOCH 121
+Epoch 121.
+EPOCH 122
+Epoch 122.
+EPOCH 123
+Epoch 123.
+EPOCH 124
+Epoch 124.
+Train/test
+Accuracy:  0.9678571428571429
+Accuracy:  0.8529411764705882
+EPOCH 125
+Epoch 125.
+EPOCH 126
+Epoch 126.
+EPOCH 127
+Epoch 127.
+EPOCH 128
+Epoch 128.
+EPOCH 129
+Epoch 129.
+Train/test
+Accuracy:  0.9892857142857143
+Accuracy:  0.865686274509804
+EPOCH 130
+Epoch 130.
+EPOCH 131
+Epoch 131.
+EPOCH 132
+Epoch 132.
+EPOCH 133
+Epoch 133.
+EPOCH 134
+Epoch 134.
+Train/test
+Accuracy:  0.9666666666666667
+Accuracy:  0.8588235294117647
+EPOCH 135
+Epoch 135.
+EPOCH 136
+Epoch 136.
+EPOCH 137
+Epoch 137.
+EPOCH 138
+Epoch 138.
+EPOCH 139
+Epoch 139.
+Train/test
+Accuracy:  1.0
+Accuracy:  0.8813725490196078
+EPOCH 140
+Epoch 140.
+EPOCH 141
+Epoch 141.
+EPOCH 142
+Epoch 142.
+EPOCH 143
+Epoch 143.
+EPOCH 144
+Epoch 144.
+Train/test
+Accuracy:  1.0
+Accuracy:  0.8784313725490196
+EPOCH 145
+Epoch 145.
+EPOCH 146
+Epoch 146.
+EPOCH 147
+Epoch 147.
+EPOCH 148
+Epoch 148.
+EPOCH 149
+Epoch 149.
+Train/test
+Accuracy:  1.0
+Accuracy:  0.8774509803921569
+EPOCH 150
+Epoch 150.
+EPOCH 151
+Epoch 151.
+EPOCH 152
+Epoch 152.
+EPOCH 153
+Epoch 153.
+EPOCH 154
+Epoch 154.
+Train/test
+Accuracy:  1.0
+Accuracy:  0.8784313725490196
+EPOCH 155
+Epoch 155.
+EPOCH 156
+Epoch 156.
+EPOCH 157
+Epoch 157.
+EPOCH 158
+Epoch 158.
+EPOCH 159
+Epoch 159.
+Train/test
+Accuracy:  1.0
+Accuracy:  0.8774509803921569
+EPOCH 160
+Epoch 160.
+EPOCH 161
+Epoch 161.
+EPOCH 162
+Epoch 162.
+EPOCH 163
+Epoch 163.
+EPOCH 164
+Epoch 164.
+Train/test
+Accuracy:  1.0
+Accuracy:  0.8764705882352941
+EPOCH 165
+Epoch 165.
+EPOCH 166
+Epoch 166.
+EPOCH 167
+Epoch 167.
+EPOCH 168
+Epoch 168.
+EPOCH 169
+Epoch 169.
+Train/test
+Accuracy:  1.0
+Accuracy:  0.8764705882352941
+EPOCH 170
+Epoch 170.
+EPOCH 171
+Epoch 171.
+EPOCH 172
+Epoch 172.
+EPOCH 173
+Epoch 173.
+EPOCH 174
+Epoch 174.
+Train/test
+Accuracy:  1.0
+Accuracy:  0.8764705882352941
+EPOCH 175
+Epoch 175.
+EPOCH 176
+Epoch 176.
+EPOCH 177
+Epoch 177.
+EPOCH 178
+Epoch 178.
+EPOCH 179
+Epoch 179.
+Train/test
+Accuracy:  1.0
+Accuracy:  0.8764705882352941
+EPOCH 180
+Epoch 180.
+EPOCH 181
+Epoch 181.
+EPOCH 182
+Epoch 182.
+EPOCH 183
+Epoch 183.
+EPOCH 184
+Epoch 184.
+Train/test
+Accuracy:  1.0
+Accuracy:  0.8764705882352941
+EPOCH 185
+Epoch 185.
+EPOCH 186
+Epoch 186.
+EPOCH 187
+Epoch 187.
+EPOCH 188
+Epoch 188.
+EPOCH 189
+Epoch 189.
+Train/test
+Accuracy:  1.0
+Accuracy:  0.8764705882352941
+EPOCH 190
+Epoch 190.
+EPOCH 191
+Epoch 191.
+EPOCH 192
+Epoch 192.
+EPOCH 193
+Epoch 193.
+EPOCH 194
+Epoch 194.
+Train/test
+Accuracy:  1.0
+Accuracy:  0.8764705882352941
+EPOCH 195
+Epoch 195.
+EPOCH 196
+Epoch 196.
+EPOCH 197
+Epoch 197.
+EPOCH 198
+Epoch 198.
+EPOCH 199
+Epoch 199.
+Train/test
+Accuracy:  1.0
+Accuracy:  0.8764705882352941

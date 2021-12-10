@@ -1,0 +1,169 @@
+4110 4110
+4110
+Class distribution,  {0: 2053, 1: 2057}
+Graph len max 111
+X_train, Y_train,  2800 2800
+Class distribution,  {0: 1390, 1: 1410}
+Creating extra data samples...
+0/2800
+140/2800
+280/2800
+420/2800
+560/2800
+700/2800
+840/2800
+980/2800
+1120/2800
+1260/2800
+1400/2800
+1540/2800
+1680/2800
+1820/2800
+1960/2800
+2100/2800
+2240/2800
+2380/2800
+2520/2800
+2660/2800
+X_train, Y_train,  2800 2800
+VR...
+(4000, 130, 3)
+(4000, 8)
+Dims x feat tda feat:  (2800, 111) (2800, 8)
+TDA GCN DATASET 
+(2800, 111)
+(2800, 111, 1)
+TDA GCN DATASET 
+(1200, 111)
+(1200, 111, 1)
+GCN Dim train,  (2800, 111) (2800, 111, 111) (2800, 8)
+EPOCH 0
+Epoch 0.
+EPOCH 1
+Epoch 1.
+EPOCH 2
+Epoch 2.
+EPOCH 3
+Epoch 3.
+EPOCH 4
+Epoch 4.
+Train/test
+Accuracy:  0.6675
+Accuracy:  0.66275
+EPOCH 5
+Epoch 5.
+EPOCH 6
+Epoch 6.
+EPOCH 7
+Epoch 7.
+EPOCH 8
+Epoch 8.
+EPOCH 9
+Epoch 9.
+Train/test
+Accuracy:  0.6628571428571428
+Accuracy:  0.65725
+EPOCH 10
+Epoch 10.
+EPOCH 11
+Epoch 11.
+EPOCH 12
+Epoch 12.
+EPOCH 13
+Epoch 13.
+EPOCH 14
+Epoch 14.
+Train/test
+Accuracy:  0.6839285714285714
+Accuracy:  0.67625
+EPOCH 15
+Epoch 15.
+EPOCH 16
+Epoch 16.
+EPOCH 17
+Epoch 17.
+EPOCH 18
+Epoch 18.
+EPOCH 19
+Epoch 19.
+Train/test
+Accuracy:  0.7010714285714286
+Accuracy:  0.69375
+EPOCH 20
+Epoch 20.
+EPOCH 21
+Epoch 21.
+EPOCH 22
+Epoch 22.
+EPOCH 23
+Epoch 23.
+EPOCH 24
+Epoch 24.
+Train/test
+Accuracy:  0.7125
+Accuracy:  0.69975
+EPOCH 25
+Epoch 25.
+EPOCH 26
+Epoch 26.
+EPOCH 27
+Epoch 27.
+EPOCH 28
+Epoch 28.
+EPOCH 29
+Epoch 29.
+Train/test
+Accuracy:  0.7128571428571429
+Accuracy:  0.69675
+EPOCH 30
+Epoch 30.
+EPOCH 31
+Epoch 31.
+EPOCH 32
+Epoch 32.
+EPOCH 33
+Epoch 33.
+EPOCH 34
+Epoch 34.
+Train/test
+Accuracy:  0.7328571428571429
+Accuracy:  0.714
+EPOCH 35
+Epoch 35.
+EPOCH 36
+Epoch 36.
+EPOCH 37
+Epoch 37.
+EPOCH 38
+Epoch 38.
+EPOCH 39
+Epoch 39.
+Train/test
+Accuracy:  0.7892857142857143
+Accuracy:  0.75575
+EPOCH 40
+Epoch 40.
+EPOCH 41
+Epoch 41.
+EPOCH 42
+Epoch 42.
+EPOCH 43
+Epoch 43.
+EPOCH 44
+Epoch 44.
+Train/test
+Accuracy:  0.7935714285714286
+Accuracy:  0.756
+EPOCH 45
+Epoch 45.
+EPOCH 46
+Epoch 46.
+EPOCH 47
+Epoch 47.
+EPOCH 48
+Epoch 48.
+EPOCH 49
+Epoch 49.
+Train/test
+Accuracy:  0.8060714285714285
+Accuracy:  0.7605

@@ -1,0 +1,41 @@
+4110 4110
+4110
+Class distribution,  {0: 2053, 1: 2057}
+Graph len max 111
+X_train, Y_train,  2877 2877
+Class distribution,  {0: 1439, 1: 1438}
+Creating extra data samples...
+0/2877
+143/2877
+286/2877
+429/2877
+572/2877
+715/2877
+858/2877
+1001/2877
+1144/2877
+1287/2877
+1430/2877
+1573/2877
+1716/2877
+1859/2877
+2002/2877
+2145/2877
+2288/2877
+2431/2877
+2574/2877
+2717/2877
+2860/2877
+X_train, Y_train,  2877 2877
+VR...
+(4110, 130, 3)
+(4110, 8)
+Testing w tree (training set only)
+Accuracy:  0.724365658672228
+Samples: 2877
+Testing w tree (on test set only)
+Accuracy:  0.643146796431468
+Samples: 1233
+RFC
+0.724365658672228
+0.6407137064071371

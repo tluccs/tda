@@ -1,0 +1,40 @@
+600 600
+600
+Class distribution,  {6: 100, 5: 100, 1: 100, 2: 100, 3: 100, 4: 100}
+Graph len max 126
+X_train, Y_train,  420 420
+Class distribution,  {3: 70, 6: 65, 5: 69, 4: 76, 2: 69, 1: 71}
+Creating extra data samples...
+0/420
+21/420
+42/420
+63/420
+84/420
+105/420
+126/420
+147/420
+168/420
+189/420
+210/420
+231/420
+252/420
+273/420
+294/420
+315/420
+336/420
+357/420
+378/420
+399/420
+X_train, Y_train,  420 420
+VR...
+(600, 172, 3)
+(600, 8)
+Testing w tree (training set only)
+Accuracy:  0.8
+Samples: 420
+Testing w tree (on test set only)
+Accuracy:  0.3055555555555556
+Samples: 180
+RFC
+0.8
+0.32222222222222224

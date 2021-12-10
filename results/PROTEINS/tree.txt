@@ -1,0 +1,41 @@
+1113 1113
+1113
+Class distribution,  {1: 663, 2: 450}
+Graph len max 620
+X_train, Y_train,  779 779
+Class distribution,  {2: 308, 1: 471}
+Creating extra data samples...
+0/779
+38/779
+76/779
+114/779
+152/779
+190/779
+228/779
+266/779
+304/779
+342/779
+380/779
+418/779
+456/779
+494/779
+532/779
+570/779
+608/779
+646/779
+684/779
+722/779
+760/779
+X_train, Y_train,  779 779
+VR...
+(1113, 955, 3)
+(1113, 8)
+Testing w tree (training set only)
+Accuracy:  0.8536585365853658
+Samples: 779
+Testing w tree (on test set only)
+Accuracy:  0.625748502994012
+Samples: 334
+RFC
+0.8536585365853658
+0.6347305389221557

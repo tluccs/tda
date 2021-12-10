@@ -1,0 +1,193 @@
+4110 4110
+4110
+Class distribution,  {0: 2053, 1: 2057}
+Graph len max 111
+X_train, Y_train,  2800 2800
+Class distribution,  {0: 1398, 1: 1402}
+Creating extra data samples...
+0/2800
+140/2800
+280/2800
+420/2800
+560/2800
+700/2800
+840/2800
+980/2800
+1120/2800
+1260/2800
+1400/2800
+1540/2800
+1680/2800
+1820/2800
+1960/2800
+2100/2800
+2240/2800
+2380/2800
+2520/2800
+2660/2800
+X_train, Y_train,  2800 2800
+VR...
+(4000, 130, 3)
+(4000, 8)
+Testing w tree (training set only)
+Accuracy:  0.6564285714285715
+Samples: 2800
+Testing w tree (on test set only)
+Accuracy:  0.6516666666666666
+Samples: 1200
+RFC
+0.6564285714285715
+0.6516666666666666
+Dims x feat tda feat:  (2800, 111) (2800, 8)
+Dims X Y train (2800, 119) (2800, 2)
+(2800,)
+EPOCH 0
+Epoch 0. Accuracy on train set
+Accuracy:  0.49964285714285717
+EPOCH 1
+Epoch 1. Accuracy on train set
+Accuracy:  0.5007142857142857
+EPOCH 2
+Epoch 2. Accuracy on train set
+Accuracy:  0.5421428571428571
+EPOCH 3
+Epoch 3. Accuracy on train set
+Accuracy:  0.6403571428571428
+EPOCH 4
+Epoch 4. Accuracy on train set
+Accuracy:  0.6371428571428571
+EPOCH 5
+Epoch 5. Accuracy on train set
+Accuracy:  0.6410714285714286
+EPOCH 6
+Epoch 6. Accuracy on train set
+Accuracy:  0.6557142857142857
+EPOCH 7
+Epoch 7. Accuracy on train set
+Accuracy:  0.6553571428571429
+EPOCH 8
+Epoch 8. Accuracy on train set
+Accuracy:  0.6635714285714286
+EPOCH 9
+Epoch 9. Accuracy on train set
+Accuracy:  0.6657142857142857
+EPOCH 10
+Epoch 10. Accuracy on train set
+Accuracy:  0.665
+EPOCH 11
+Epoch 11. Accuracy on train set
+Accuracy:  0.6689285714285714
+EPOCH 12
+Epoch 12. Accuracy on train set
+Accuracy:  0.6567857142857143
+EPOCH 13
+Epoch 13. Accuracy on train set
+Accuracy:  0.6757142857142857
+EPOCH 14
+Epoch 14. Accuracy on train set
+Accuracy:  0.6807142857142857
+EPOCH 15
+Epoch 15. Accuracy on train set
+Accuracy:  0.6807142857142857
+EPOCH 16
+Epoch 16. Accuracy on train set
+Accuracy:  0.6846428571428571
+EPOCH 17
+Epoch 17. Accuracy on train set
+Accuracy:  0.6828571428571428
+EPOCH 18
+Epoch 18. Accuracy on train set
+Accuracy:  0.6853571428571429
+EPOCH 19
+Epoch 19. Accuracy on train set
+Accuracy:  0.6857142857142857
+EPOCH 20
+Epoch 20. Accuracy on train set
+Accuracy:  0.6917857142857143
+EPOCH 21
+Epoch 21. Accuracy on train set
+Accuracy:  0.6928571428571428
+EPOCH 22
+Epoch 22. Accuracy on train set
+Accuracy:  0.6771428571428572
+EPOCH 23
+Epoch 23. Accuracy on train set
+Accuracy:  0.6953571428571429
+EPOCH 24
+Epoch 24. Accuracy on train set
+Accuracy:  0.6839285714285714
+EPOCH 25
+Epoch 25. Accuracy on train set
+Accuracy:  0.6857142857142857
+EPOCH 26
+Epoch 26. Accuracy on train set
+Accuracy:  0.6864285714285714
+EPOCH 27
+Epoch 27. Accuracy on train set
+Accuracy:  0.7039285714285715
+EPOCH 28
+Epoch 28. Accuracy on train set
+Accuracy:  0.6721428571428572
+EPOCH 29
+Epoch 29. Accuracy on train set
+Accuracy:  0.6696428571428571
+EPOCH 30
+Epoch 30. Accuracy on train set
+Accuracy:  0.6957142857142857
+EPOCH 31
+Epoch 31. Accuracy on train set
+Accuracy:  0.7
+EPOCH 32
+Epoch 32. Accuracy on train set
+Accuracy:  0.6978571428571428
+EPOCH 33
+Epoch 33. Accuracy on train set
+Accuracy:  0.6921428571428572
+EPOCH 34
+Epoch 34. Accuracy on train set
+Accuracy:  0.6857142857142857
+EPOCH 35
+Epoch 35. Accuracy on train set
+Accuracy:  0.7121428571428572
+EPOCH 36
+Epoch 36. Accuracy on train set
+Accuracy:  0.6907142857142857
+EPOCH 37
+Epoch 37. Accuracy on train set
+Accuracy:  0.6775
+EPOCH 38
+Epoch 38. Accuracy on train set
+Accuracy:  0.7071428571428572
+EPOCH 39
+Epoch 39. Accuracy on train set
+Accuracy:  0.6967857142857142
+EPOCH 40
+Epoch 40. Accuracy on train set
+Accuracy:  0.7060714285714286
+EPOCH 41
+Epoch 41. Accuracy on train set
+Accuracy:  0.6882142857142857
+EPOCH 42
+Epoch 42. Accuracy on train set
+Accuracy:  0.7089285714285715
+EPOCH 43
+Epoch 43. Accuracy on train set
+Accuracy:  0.69
+EPOCH 44
+Epoch 44. Accuracy on train set
+Accuracy:  0.6985714285714286
+EPOCH 45
+Epoch 45. Accuracy on train set
+Accuracy:  0.715
+EPOCH 46
+Epoch 46. Accuracy on train set
+Accuracy:  0.7103571428571429
+EPOCH 47
+Epoch 47. Accuracy on train set
+Accuracy:  0.715
+EPOCH 48
+Epoch 48. Accuracy on train set
+Accuracy:  0.7096428571428571
+EPOCH 49
+Epoch 49. Accuracy on train set
+Accuracy:  0.7282142857142857
